@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.Login {
+  background-image: url("https://images4.newscred.com/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 90vh;
+}
+
+.Register {
+  background-image: url("https://img.freepik.com/free-vector/register-website-by-using-qr-code-user-enters-web-page-working-with-interface-access-account-3d-isometric-purple-gradient_87791-284.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 90vh;
+}
+
+.AllProducts {
+  background-image: url("https://www.creatopy.com/blog/wp-content/uploads/2018/12/Create-Animated-SVGS.png");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 180vh;
+}
+
+.CartProducts {
+  background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/shopping-cart-on-yellow-background-in-spotlight-michal-bednarek.jpg");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 90vh;
+}
+
+.OrderProducts {
+  background-image: url("https://www.photobox.co.uk/blog/wp-content/uploads/2018/11/ChristmasGifts2000.jpg");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 90vh;
+}
+
+.InProduct {
+  background-image: url("https://www.ses.com/sites/default/files/styles/twelve_fifth/public/2021-03/Ultra-HD-Banner-Image-v3.jpg?h=7c2891a5&itok=XVZqNZ3m");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 90vh;
+}
+
+.PlaceOrder {
+  background-image: url("https://i.ytimg.com/vi/G76-eRnHWOM/maxresdefault.jpg");
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 90vh;
+}
+
+h2 {
+  padding: 25px;
+  color: cyan;
+}
